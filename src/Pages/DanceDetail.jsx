@@ -12,7 +12,7 @@ function DanceDetail() {
 
   return (
     <>
-      <div className="max-w-md mx-auto mt-10">
+      <div className="max-w-md mx-auto mt-10 min-h-screen">
         {selectedDance ? (
           <div
             key={selectedDance.id}
