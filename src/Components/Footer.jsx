@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="bg-black text-white text-center py-4 mt-10 border-t">
+    <footer className="bg-black text-white text-center py-4 ">
       <p className="text-sm">
         © 2025 • Built by
         <span className="font-semibold text-yellow-600">

@@ -46,7 +46,7 @@ An interactive web application that showcases the rich heritage of Indian classi
 
 ### 8. **Footer**
 
-- Clean footer with your name and GitHub link
+- Clean footer with my name and GitHub link
 
 ---
 
